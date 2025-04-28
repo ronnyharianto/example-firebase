@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firebase-console", "firebase-console\firebase-console.csproj", "{6AA7CD23-7545-4764-B4D2-5D4D96392124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA7CD23-7545-4764-B4D2-5D4D96392124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA7CD23-7545-4764-B4D2-5D4D96392124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA7CD23-7545-4764-B4D2-5D4D96392124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA7CD23-7545-4764-B4D2-5D4D96392124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49480EF9-9074-446D-A8CE-1C6C74FE87FD}
+	EndGlobalSection
+EndGlobal
